@@ -7,3 +7,4 @@
 from here: http://yaroslavvb.com/upload/notMNIST/
 
 and follow the IPython notebook
+Good Luck :)
